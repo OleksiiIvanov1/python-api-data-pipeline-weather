@@ -1,4 +1,4 @@
-# Python Weather Data ETL Pipeline 
+# Python Weather Data ETL Pipeline ☁️🌡️
 
 A simple but professional end-to-end ETL (Extract–Transform–Load) pipeline that collects real-time weather data from a public API, cleans it, analyzes it, and generates charts for insights.
 
@@ -8,13 +8,13 @@ This project demonstrates core junior developer skills in Python, APIs, data pro
 
 ## Project Overview
 
-This project fetches weather data from the OpenWeather API, stores raw JSON responses, cleans and transforms the data using Pandas, and generates visual charts for analysis. 
+This project fetches weather data from the OpenWeather API, stores raw JSON responses, cleans and transforms the data using Pandas, and generates visual charts for analysis.
 
 It simulates a real-world data workflow and follows a scalable folder structure used in production ETL processes.
 
 ---
 
-## Project Structure
+##  Project Structure
 
 /python-weather-data-pipeline
 │
@@ -42,7 +42,7 @@ It simulates a real-world data workflow and follows a scalable folder structure 
 
 ---
 
-## Skills Demonstrated
+##  Skills Demonstrated
 
 - API integration and authentication  
 - ETL design using modular Python scripts  
@@ -55,29 +55,25 @@ It simulates a real-world data workflow and follows a scalable folder structure 
 
 ---
 
-## Example Outputs (Coming Soon)
+##  Example Outputs (Coming Soon)
 
 Screenshots of charts will appear here once the analysis step is completed.
 
 ---
 
-## How to Run the Pipeline
+##  How to Run the Pipeline
 
 1. Install dependencies:
 
-pip install pandas requests matplotlib
 
-
-2. Add your API key inside `fetch_data.py`.
+2. Add your API key inside `src/fetch_data.py`.
 
 3. Run the full pipeline:
-
-python src/main.py
 
 
 ---
 
-## 🔮 Future Improvements
+##  Future Improvements
 
 - Automate daily scheduling  
 - Add multiple city support  
@@ -86,7 +82,7 @@ python src/main.py
 
 ---
 
-## 🧑‍💻 Author
+##  Author
 
 **Oleksii Ivanov**  
 Junior Python Developer / BI Developer  
